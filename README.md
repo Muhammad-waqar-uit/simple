@@ -2,6 +2,8 @@
 
 This is sample flutter application to get the live location of user
 
+[![Watch the video](https://img.youtube.com/vi/PoU9krWEZR0/maxresdefault.jpg)](https://youtu.be/PoU9krWEZR0)
+
 ## Dependencies
 
 - [geolocator: ^9.0.2](https://pub.dev/packages/geolocator)
